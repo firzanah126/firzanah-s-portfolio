@@ -1,0 +1,87 @@
+body {
+    margin: 0;
+    text-align: center;     
+}
+
+
+/* top-container */
+h1{
+    margin-top: 0;
+    font-family: 'Sacramento', cursive;
+    font-size: 5em;
+    color: #4f3961;
+}
+h2{
+    margin: -40px 0 0px 0;
+    font-family: 'Merriweather', serif;
+    font-size: 1.5em;
+    color: #4f3961;
+    
+}
+.top-container {
+    background-color: #fc9d9d;
+
+}
+.astronaut{
+    width: 20%;
+    position: relative;
+    padding-right: 30%;
+    
+
+}
+.mountain{
+    position: relative;
+    width: 90%;
+    margin-bottom: -4px ;
+}
+
+
+/* middle-container */
+
+.self-pic{
+    width: 20%;
+    margin: 50px auto 60px;
+}
+.middle{
+    color: #ea728c;
+    text-align: center;
+    width: 35%;
+    margin: 0 auto;
+    
+}
+.one{
+    color: #ea728c;
+    font-size: 30px;
+    margin-bottom: 60px;
+}
+p{
+    font-family: 'Merriweather', serif;
+}
+
+hr{
+    border-top: 10px dotted #ea728c;
+    width: 30%;
+    margin: 100px auto;
+}
+
+
+/*  bottom-container */
+.bottom-container{
+    margin: 150px 0 50px 0;
+}
+.logo{
+    flex: 30%;
+    padding: 0 30px;
+   
+}
+
+/* footer */
+h3{
+    background-color: #4f3961;
+    margin-bottom: 0px;
+    padding-top: 2%;
+    padding-bottom: 20px;
+    color: #fc9d9d;
+    font-weight: 30;
+    font-size: small;
+}
